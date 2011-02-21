@@ -1,0 +1,9 @@
+{
+    "name": "aboutresponse", 
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "author": "Dietrich Ayala", 
+    "version": "0.1", 
+    "fullName": "about:response", 
+    "id": "jid0-nYvWqVzCB55EYmkSsGqMvsrUHBs", 
+    "description": "Tracks response time of various parts of the browser UI. See results in about:response."
+}
